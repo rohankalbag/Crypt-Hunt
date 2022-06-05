@@ -17,6 +17,7 @@ The following code is for a dynamic crypt-hunt website containing *user authenti
 - *(Optional)*: Move ```./quiz_db``` folder to ```Xampp/mysql/data``` the database contains some dummy example data. If not used then make sure to change the database credentials from the default ones in ```./connection.php``` to make the database compatible with the backend
 - Run the XAMPP server and activate `Apache` and `MySQL`
 > ![image](https://user-images.githubusercontent.com/46604893/172038803-c091bf49-8430-4731-81e3-cfa22389ae92.png)
+- Open your browser and enter the following URL `localhost:<Port for Apache>/quiz/` for the above example the Port is 80
 
 
 ## Adding Questions/Instructions to the CryptHunt
