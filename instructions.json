@@ -1,0 +1,21 @@
+[{
+    "no":1,
+    "instruction":"There will be amazing goodies given to the top ten scorers"
+},
+{
+    "no":2,
+    "instruction":"You will have to answer in 'one word' pertaining to the phrase or image shown here"
+},
+{
+    "no":3,
+    "instruction":"The next question will not open unless you have got the correct answer to the previous one"
+},
+{
+    "no":4,
+    "instruction":"Player 1 ranks higher than Player 2, if he has a higher score (more correct answers). If they have the same score then the one who answered the last correct fastest is the one is ranks higher in the leaderboard"
+},
+{
+    "no":5,
+    "instruction":"Most important instruction is to Have Fun !"
+}
+]

@@ -1,0 +1,26 @@
+[{
+    "no":1,
+    "question":"Name of the country you are in?",
+    "answer":"india"
+},
+{
+    "no":2,
+    "question":"Name of the continent you are in?",
+    "answer":"asia"
+},
+{
+    "no":3,
+    "question":"Name of the city you are in?",
+    "answer":"mumbai"
+},
+{
+    "no":4,
+    "question":"Where did we get treat from megha? (it is lovingly called as ---- )",
+    "answer":"gullu"
+},
+{
+    "no":5,
+    "question":"How many NSS web AAs are there? (in words)",
+    "answer":"four"
+}
+]
