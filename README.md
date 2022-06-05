@@ -20,10 +20,8 @@ The following code is for a dynamic crypt-hunt website containing *user authenti
 - Open your browser and enter the following URL `localhost:<Port for Apache>/quiz/` for the above example the Port is 80
 
 ## Demo Video
-> 
 
-https://user-images.githubusercontent.com/46604893/172039084-2eeb84e1-b8fe-4547-8fa0-790316f8edac.mp4
-
+https://user-images.githubusercontent.com/46604893/172039628-df7a5ca3-d33c-402b-a98b-18e99d96e6ac.mp4
 
 ## Adding Questions/Instructions to the CryptHunt
 
