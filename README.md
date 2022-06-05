@@ -23,18 +23,20 @@ The following code is for a dynamic crypt-hunt website containing *user authenti
 
 ```json
 {
-    "no": <question number>,
+    "no": 1,
     "question": "<question text>",
     "answer":" <one word answer in lowercase>"
 }
 ```
+- Replace the 1 with the relevant question number
 
 ### For Instructions
 - Add the following `.json` block in `./instructions.json` for each new question
 
 ```json
 {
-    "no": 5,
+    "no": 1,
     "instruction": "<instruction text>"
 }
 ```
+- Replace the 1 with the relevant instruction number
