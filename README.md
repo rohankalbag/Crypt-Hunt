@@ -49,3 +49,5 @@ https://user-images.githubusercontent.com/46604893/172039084-2eeb84e1-b8fe-4547-
 }
 ```
 - Replace the 1 with the relevant instruction number
+
+**For suggesting any modifications/fixing errors feel free to create a pull request/issue **
