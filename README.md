@@ -12,9 +12,12 @@ The following code is for a dynamic crypt-hunt website containing *user authenti
 
 ## Instructions to set up on [XAMPP](https://www.apachefriends.org/index.html)
 - Install XAMPP
-- Move the files all the json and php files to project folder in ```xampp/htdocs```
-- *(Optional)*: Move ```./quiz_db``` folder to ```xampp/mysql/data``` the database contains some dummy example data. If not used then make sure to change the database credentials from the default ones in ```./connection.php``` to make the database compatible with the backend
-- Run the XAMPP server
+- Open the directory for XAMPP after installation `Xampp`
+- Move the files all the json and php files to project folder in ```Xampp/htdocs```
+- *(Optional)*: Move ```./quiz_db``` folder to ```Xampp/mysql/data``` the database contains some dummy example data. If not used then make sure to change the database credentials from the default ones in ```./connection.php``` to make the database compatible with the backend
+- Run the XAMPP server and activate `Apache` and `MySQL`
+>> ![image](https://user-images.githubusercontent.com/46604893/172038803-c091bf49-8430-4731-81e3-cfa22389ae92.png)
+
 
 ## Adding Questions/Instructions to the CryptHunt
 
